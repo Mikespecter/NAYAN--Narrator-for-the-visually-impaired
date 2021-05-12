@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/captioner.iml" filepath="$PROJECT_DIR$/.idea/modules/captioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/captioner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/captioner.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/captioner.libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/captioner.libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/tess-two/captioner.libraries.tess-two.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/tess-two/captioner.libraries.tess-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary320/captioner.openCVLibrary320.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary320/captioner.openCVLibrary320.iml" />
+    </modules>
+  </component>
+</project>
