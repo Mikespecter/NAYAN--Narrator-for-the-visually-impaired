@@ -1,4 +1,4 @@
-# NAYAN--Narrator-for-the-visually-impaired
+# NAYAN- Narrator for the visually impaired
 To install the app directly onto your phone, follow the below steps:
 
 Step-1: There are 2 zip files, Captioner, and tessdata in the drive. Unzip these 2 files and store them in the phone storage with the same name.  
