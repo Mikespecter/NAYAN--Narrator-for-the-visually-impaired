@@ -1,7 +1,7 @@
 # NAYAN- Narrator for the visually impaired
-Building an android app (narrator) that will help someone with complete blindness or impaired vision to read books, magazines, letters, etc. 
-Unlike other systems, this system will not only read the text from the document, but also implement dense image captioning to produce captions for the images present in the document and convert both into audio format and narrate it to the user giving him the feel of human narration.
-The system will be useful not only for English language but also for Devanagari scripts. 
+Building an android app (narrator) that will help someone with complete blindness or impaired vision to read books, magazines, letters, etc.   
+Unlike other systems, this system will not only read the text from the document, but also implement dense image captioning to produce captions for the images present in the document and convert both into audio format and narrate it to the user giving him the feel of human narration.  
+The system will be useful not only for English language but also for Devanagari scripts.  
 This system would also be able to read multi- columnar data from the document. 
 
 To install the app directly onto your phone, follow the below steps:
